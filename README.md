@@ -18,6 +18,6 @@ For Text-to-Audio (TTA) deepfake, we use 5 TTA models, including: AudioLDM (G1),
 Detailed structure of the dataset is shown in the following figure:
 
 <p align="center">
-  <img src="figs/dataset.png" alt="Dataset" width="350" />
+  <img src="figs/dataset.png" alt="Dataset" width="600" />
 </p>
 
