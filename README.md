@@ -16,3 +16,8 @@ In our work, we sourced real data from 6 public datasets: UrbanSound8K (D1), DCA
 For Text-to-Audio (TTA) deepfake, we use 5 TTA models, including: AudioLDM (G1), AudioLDM 2 (G2), AudioGen (G3), TangoFlux (G4) and AudioLCM (G5). For Audio-to-Audio (ATA) deepfake, we use 2 ATA models, including: AudioLDM (G1) and AudioLDM 2 (G2).
 
 Detailed structure of the dataset is shown in the following figure:
+
+<p align="center">
+  <img src="figs/dataset.png" alt="Dataset" width="270" />
+</p>
+
