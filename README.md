@@ -11,7 +11,7 @@ More information please refer to our demo page: https://envsdd.github.io/
 
 ## Dataset
 
-In our work, we sourced real data from 6 public datasets: UrbanSound8K (D1), DCASE 2023 Task7 Dev (D2), TAU UAS 2019 Open Dev (D3), TUT SED 2016 (D4), TUT SED 2017 (D5) and Clotho (D6). The real data from **D2&D6** are used for test, others are used for development.
+In our work, we sourced real data from 6 public datasets: UrbanSound8K (D1), DCASE 2023 Task7 Dev (D2), TAU UAS 2019 Open Dev (D3), TUT SED 2016 (D4), TUT SED 2017 (D5) and Clotho (D6). 
 
 For Text-to-Audio (TTA) deepfake, we use 5 TTA models, including: AudioLDM (G1), AudioLDM 2 (G2), AudioGen (G3), TangoFlux (G4) and AudioLCM (G5).
 
