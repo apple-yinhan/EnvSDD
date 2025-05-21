@@ -36,3 +36,11 @@ Thank you for your understanding!
 3 models are supported now: aasist, w2v2_aasist, beats_aasist.
 
 PS: There are lots of arguments (eg. batchsize, eval ...) in the main.py, you can directly set in the terminal. It is ok if you do not have test.json during training, test.json will only be used when you activate "eval".
+
+Pretrained models: we use two pre-trained models in the paper. We sincerely appreciate the tremendous efforts behind these outstanding works.
+
+1. wav2vec XLS-R 300M: [https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/xlsr/README.md](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/xlsr/README.md)
+
+2. BEATs: [https://huggingface.co/nsivaku/nithin_checkpoints/tree/main](https://huggingface.co/nsivaku/nithin_checkpoints/tree/main)
+
+## Test
