@@ -72,6 +72,7 @@ Our implementations use the source code from the following repositories and user
 - [https://github.com/swagshaw/XLSR-Mamba](https://github.com/swagshaw/XLSR-Mamba)
 - [https://github.com/ductuantruong/tcm_add](https://github.com/ductuantruong/tcm_add)
 - [https://github.com/TakHemlata/SSL_Anti-spoofing](https://github.com/TakHemlata/SSL_Anti-spoofing)
+- [https://github.com/facebookresearch/fairseq](https://github.com/facebookresearch/fairseq)
 
 ## Citation
 If you find our repository valuable for your work, please consider giving a star to this repo and citing our paper:
