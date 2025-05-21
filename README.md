@@ -54,4 +54,10 @@ Pretrained models: we use two pre-trained models in the paper. We sincerely appr
 
 PS: we release our checkpoints in xxxxxx. At the moment we do not release the metadata of the test sets, so we report the models' performance on the validation set for reference:
 
+Table: EER (%) if different systems on the validation set.
+|      System     |   TTA    |   ATA   |
+|-----------------|----------|----------|
+|      AASIST     |    0.80    |   0.19   |
+|   W2V2-AASIST   |    0.27   |  0.25   |
+|   BEATs-AASIST  |    0.09 | 0.06 |
 
