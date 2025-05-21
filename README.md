@@ -55,9 +55,33 @@ Pretrained models: we use two pre-trained models in the paper. We sincerely appr
 PS: we release our checkpoints in xxxxxx. At the moment we do not release the metadata of the test sets, so we report the models' performance on the validation set for reference (The performance on validation set is good because this is an in-domain inference, more results on out-of-domain tests can be found in our paper).
 
 Table: Equal Error Rate (%) of different systems on the validation set. 
+<div align="center">
+
 |      System     |   TTA    |   ATA   |
 |-----------------|----------|----------|
 |      AASIST     |    0.80    |   0.19   |
 |   W2V2-AASIST   |    0.27   |  0.25   |
 |   BEATs-AASIST  |    0.09 | 0.06 |
+<div>
 
+<div align="left">
+
+## Acknowledgements
+Our implementations use the source code from the following repositories and users:
+
+- [https://github.com/swagshaw/XLSR-Mamba](https://github.com/swagshaw/XLSR-Mamba)
+- [https://github.com/ductuantruong/tcm_add](https://github.com/ductuantruong/tcm_add)
+- [https://github.com/TakHemlata/SSL_Anti-spoofing](https://github.com/TakHemlata/SSL_Anti-spoofing)
+
+## Citation
+If you find our repository valuable for your work, please consider giving a star to this repo and citing our paper:
+```
+@article{envsdd,
+  title={{EnvSDD}: Benchmarking Environmental Sound Deepfake Detection},
+  author={Yin, Han and Xiao, Yang and Das, Rohan Kumar and Bai, Jisheng and Liu, Haohe and Wang, Wenwu and Plumbley, Mark D},
+  booktitle={Interspeech},
+  year={2025}
+}
+```
+
+<div>
