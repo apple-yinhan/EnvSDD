@@ -26,9 +26,11 @@ Thank you for your understanding!
 ## Train
 - Step 1: prepare environment by running: <mark>pip install -r requirements.txt<mark>
 - Step 2: prepare .json file for development by running: <mark>python generate_json_dev.py<mark>
+
 <p align="center">
   <img src="figs/generate_json_dev.png" alt="Dataset" width="800" />
 </p>
+
 - Step 3: train your deepfake models by running: <mark>python main.py --exp_id 0 --model model_name<mark>
 
 3 models are supported now: aasist, w2v2_aasist, beats_aasist.
