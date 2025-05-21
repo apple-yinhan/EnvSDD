@@ -23,7 +23,7 @@ Detailed structure of the dataset is shown in the following figure:
 Some parts of the dataset are temporarily not publicly available because we plan to host a challenge. We aim to ensure fairness and prevent data leakage prior to the event. The dataset will be made publicly available after the competition concludes. If you are interested in early access for research purposes or have any questions, please feel free to contact us at yinhan@mail.nwpu.edu.cn.
 Thank you for your understanding!
 
-## Train
+## Development
 - Step 1: prepare environment by running: <mark>pip install -r requirements.txt<mark>
 - Step 2: prepare .json file for development by running: <mark>python generate_json_dev.py<mark>
 
@@ -44,3 +44,14 @@ Pretrained models: we use two pre-trained models in the paper. We sincerely appr
 2. BEATs: [https://huggingface.co/nsivaku/nithin_checkpoints/tree/main](https://huggingface.co/nsivaku/nithin_checkpoints/tree/main)
 
 ## Test
+- Step 1: prepare .json file for test by running: <mark>python generate_json_test.py<mark>
+
+- Step 2: test your deepfake models by running: <mark>python main.py --exp_id 0 --eval --eval_output ./eval_output/predictions.txt --test_meta_json tta/test/test01.json --model aasist --model_path /home/yinhan/codes/audio_deepfake/exps/TTA/aasist.pth<mark>
+
+<p align="center">
+  <img src="figs/test.png" alt="Dataset" width="800" />
+</p>
+
+PS: we release our checkpoints in xxxxxx. At the moment we do not release the metadata of the test sets, so we report the models' performance on the validation set for reference:
+
+
