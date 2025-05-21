@@ -27,5 +27,5 @@ Thank you for your understanding!
 - Step 1: prepare environment by running: *pip install -r requirements.txt*
 - Step 2: prepare .json file for development by running: *python generate_json_dev.py*
 <p align="center">
-  <img src="figs/generate_json_dev.png" alt="Dataset" width="300" />
+  <img src="figs/generate_json_dev.png" alt="Dataset" width="600" />
 </p>
