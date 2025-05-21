@@ -52,9 +52,9 @@ Pretrained models: we use two pre-trained models in the paper. We sincerely appr
   <img src="figs/test.png" alt="Dataset" width="800" />
 </p>
 
-PS: we release our checkpoints in xxxxxx. At the moment we do not release the metadata of the test sets, so we report the models' performance on the validation set for reference:
+PS: we release our checkpoints in xxxxxx. At the moment we do not release the metadata of the test sets, so we report the models' performance on the validation set for reference (The performance on validation set is good because this is an in-domain inference, more results on out-of-domain tests can be found in our paper).
 
-Table: EER (%) if different systems on the validation set.
+Table: Equal Error Rate (%) of different systems on the validation set. 
 |      System     |   TTA    |   ATA   |
 |-----------------|----------|----------|
 |      AASIST     |    0.80    |   0.19   |
