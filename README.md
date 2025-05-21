@@ -4,7 +4,7 @@ Official code for EnvSDD (Environmental Sound Deepfake Detection)
 Arxiv: 
 
 Abstact:
-Audio generation systems now create very realistic soundscapes that can enhance media production, but also pose potential risks. Several studies have examined deepfakes in speech or singing voice. However, environmental sounds have different characteristics, which may make methods for detecting speech and singing deepfakes less effective for real-world sounds. In addition, existing datasets for environmental sound deepfake detection are limited in scale and audio types. To address this gap, we introduce EnvSDD, the first large-scale curated dataset designed for this task, consisting of 45.25 hours of real and 316.74 hours of fake audio. The test set includes diverse conditions to evaluate the generalizability, such as unseen generation models and unseen datasets. We also propose an audio deepfake detection system, based on a pre-trained audio foundation model. Results on EnvSDD show that our proposed system outperforms the state-of-the-art systems from speech and singing domains.
+Audio generation systems now create very realistic soundscapes that can enhance media production, but also pose potential risks. Several studies have examined deepfakes in speech or singing voice. However, environmental sounds have different characteristics, which may make methods for detecting speech and singing deepfakes less effective for real-world sounds. In addition, existing datasets for environmental sound deepfake detection are limited in scale and audio types. **To address this gap, we introduce EnvSDD, the first large-scale curated dataset designed for this task, consisting of 45.25 hours of real and 316.74 hours of fake audio.** The test set includes diverse conditions to evaluate the generalizability, such as unseen generation models and unseen datasets. We also propose an audio deepfake detection system, based on a pre-trained audio foundation model. Results on EnvSDD show that our proposed system outperforms the state-of-the-art systems from speech and singing domains.
 
 More information please refer to our demo page: https://envsdd.github.io/
 
@@ -52,10 +52,10 @@ Pretrained models: we use two pre-trained models in the paper. We sincerely appr
   <img src="figs/test.png" alt="Dataset" width="800" />
 </p>
 
-PS: we release our checkpoints in xxxxxx. At the moment we do not release the metadata of the test sets, so we report the models' performance on the validation set for reference (The performance on validation set is good because this is an in-domain inference, more results on out-of-domain tests can be found in our paper).
+PS: we release our checkpoints in [https://zenodo.org/records/15480032](https://zenodo.org/records/15480032). At the moment we do not release the metadata of the test sets, so we report the models' performance on the validation set for reference (The performance on validation set is good because this is an in-domain inference, more results on out-of-domain tests can be found in our paper).
 
-Table: Equal Error Rate (%) of different systems on the validation set. 
 <div align="center">
+Table: Equal Error Rate (%) of different systems on the validation set. 
 
 |      System     |   TTA    |   ATA   |
 |-----------------|----------|----------|
