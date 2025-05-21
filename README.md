@@ -21,3 +21,5 @@ Detailed structure of the dataset is shown in the following figure:
   <img src="figs/dataset.png" alt="Dataset" width="600" />
 </p>
 
+- EnvSDD-Development: you can download from [https://zenodo.org/records/15220951](https://zenodo.org/records/15220951)
+- EnvSDD-Test: you can download from [https://zenodo.org/records/15241138](https://zenodo.org/records/15241138)
