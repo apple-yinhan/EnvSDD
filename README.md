@@ -24,8 +24,13 @@ Some parts of the dataset are temporarily not publicly available because we plan
 Thank you for your understanding!
 
 ## Train
-- Step 1: prepare environment by running: *pip install -r requirements.txt*
-- Step 2: prepare .json file for development by running: *python generate_json_dev.py*
+- Step 1: prepare environment by running: <mark>pip install -r requirements.txt<mark>
+- Step 2: prepare .json file for development by running: <mark>python generate_json_dev.py<mark>
 <p align="center">
-  <img src="figs/generate_json_dev.png" alt="Dataset" width="600" />
+  <img src="figs/generate_json_dev.png" alt="Dataset" width="800" />
 </p>
+- Step 3: train your deepfake models by running: <mark>python main.py --exp_id 0 --model model_name<mark>
+
+3 models are supported now: aasist, w2v2_aasist, beats_aasist.
+
+PS: There are lots of arguments (eg. batchsize, eval ...) in the main.py, you can directly set in the terminal. It is ok if you do not have test.json during training, test.json will only be used when you activate "eval".
