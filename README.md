@@ -22,3 +22,10 @@ Detailed structure of the dataset is shown in the following figure:
 
 Some parts of the dataset are temporarily not publicly available because we plan to host a challenge. We aim to ensure fairness and prevent data leakage prior to the event. The dataset will be made publicly available after the competition concludes. If you are interested in early access for research purposes or have any questions, please feel free to contact us at yinhan@mail.nwpu.edu.cn.
 Thank you for your understanding!
+
+## Train
+- Step 1: prepare environment by running: *pip install -r requirements.txt*
+- Step 2: prepare .json file for development by running: *python generate_json_dev.py*
+<p align="center">
+  <img src="figs/generate_json_dev.png" alt="Dataset" width="300" />
+</p>
