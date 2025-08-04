@@ -8,6 +8,11 @@ Audio generation systems now create very realistic soundscapes that can enhance 
 
 More information please refer to our demo page: [https://envsdd.github.io/](https://envsdd.github.io/)
 
+## Updates
+2025.08.04 Based on EnvSDD, we are launching the [Environmental Sound Deepfake Detection (ESDD) Challenge](https://sites.google.com/view/esdd-challenge). 
+
+The challenge baseline is also this repo, how to run challenge baseline please refer to README_ESDD_2026.
+
 ## Dataset
 
 Detailed structure of the dataset is shown in the following figure:
