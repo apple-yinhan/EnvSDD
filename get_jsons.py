@@ -4,7 +4,7 @@ import pandas as pd
 import config_v2 as config
 from tqdm import tqdm
 
-TYPE = "eval_track2" # dev_track1, dev_track2, eval_track1, eval_track2, test_track1, test_track2
+TYPE = "dev_track1" # dev_track1, dev_track2
 os.makedirs(config.metadata_json_file, exist_ok=True)
 
 if TYPE == "dev_track1":
