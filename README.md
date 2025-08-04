@@ -13,7 +13,7 @@ More information please refer to our demo page: [https://envsdd.github.io/](http
 
 Based on EnvSDD, we are launching the [Environmental Sound Deepfake Detection (ESDD) Challenge](https://sites.google.com/view/esdd-challenge). 
 
-The challenge will be held with **ICASSP 2026**, baseline is also this repo, how to run challenge baseline please refer to README_ESDD_2026.
+The challenge will be held with **ICASSP 2026**, baseline is also this repo, how to run challenge baseline please refer to [README_ESDD_2026.md](https://github.com/apple-yinhan/EnvSDD/blob/main/README_ESDD_2026.md).
 
 ## Dataset
 
