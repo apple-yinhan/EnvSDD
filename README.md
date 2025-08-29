@@ -29,6 +29,15 @@ Detailed structure of the dataset is shown in the following figure:
 - EnvSDD-Test: you can download from [https://zenodo.org/records/15241138](https://zenodo.org/records/15241138)
 - EnvSDD-Remain: available soon
 
+- If you download the EnvSDD-Development data, you will get 178765 clips in total, i.e., 35753 (real) + 35753 * 4 (fake).
+- If you download the EnvSDD-Test data, you will get 39768 clips in total, i.e., 4971 (real) + 4971 * 7 (fake).
+- To better explain how these numbers come, please refer to the picture below. Clips in red boxes belong to EnvSDD-Development, while those in green boxes belong to EnvSDD-Test.
+
+
+
+
+
+
 Some parts of the dataset are temporarily not publicly available because we plan to host a challenge. We aim to ensure fairness and prevent data leakage prior to the event. The dataset will be made publicly available after the competition concludes. If you are interested in early access for research purposes or have any questions, please feel free to contact us at yinhan@mail.nwpu.edu.cn.
 Thank you for your understanding!
 
