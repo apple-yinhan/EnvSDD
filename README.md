@@ -38,10 +38,7 @@ Detailed structure of the dataset is shown in the following figure:
 </p>
 
 - In Table 3, for real data, the same number refer to the same data, so we only count once for those.
-- 
-
-
-
+- datasplit_dev.csv shows the detailed metadata for **Real Data**. For the metadata of the whole development set, please refer to meta_whole_dev.csv
 
 Some parts of the dataset are temporarily not publicly available because we plan to host a challenge. We aim to ensure fairness and prevent data leakage prior to the event. The dataset will be made publicly available after the competition concludes. If you are interested in early access for research purposes or have any questions, please feel free to contact us at yinhan@mail.nwpu.edu.cn.
 Thank you for your understanding!
