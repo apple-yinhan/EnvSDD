@@ -34,9 +34,11 @@ Detailed structure of the dataset is shown in the following figure:
 - To better explain how these numbers come, please refer to the picture below. Clips in red boxes belong to EnvSDD-Development, while those in green boxes belong to EnvSDD-Test.
 
 <p align="center">
-  <img src="figs/dataset_count_2.jpg" alt="Dataset" width="600" />
+  <img src="figs/dataset_count_2.jpg" alt="Dataset" width="300" />
 </p>
 
+- In Table 3, for real data, the same number refer to the same data, so we only count once for those.
+- 
 
 
 
