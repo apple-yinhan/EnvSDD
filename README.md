@@ -33,6 +33,9 @@ Detailed structure of the dataset is shown in the following figure:
 - If you download the EnvSDD-Test data, you will get 39768 clips in total, i.e., 4971 (real) + 4971 * 7 (fake).
 - To better explain how these numbers come, please refer to the picture below. Clips in red boxes belong to EnvSDD-Development, while those in green boxes belong to EnvSDD-Test.
 
+<p align="center">
+  <img src="figs/dataset_count_2.png" alt="Dataset" width="600" />
+</p>
 
 
 
