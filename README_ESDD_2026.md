@@ -12,6 +12,8 @@ More information please refer to [our challenge page](https://sites.google.com/v
 
 - Please download the challenge baseline checkpoints from [Zenodo](https://zenodo.org/records/16684054).
 
+- please download the test data for track 1 and track 2 from [Zenodo](https://zenodo.org/records/16685039)
+
 
 ## Track 1: ESDD in Unseen Generators
 
