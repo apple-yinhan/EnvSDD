@@ -4,6 +4,8 @@
 
 We released all metadata in the **metadata folder**, please kindly check and download.
 
+We also released the EnvSDD-Remain on Zenodo.
+
 ## ESDD Challenge 2026
 
 Based on EnvSDD, we are launching the [Environmental Sound Deepfake Detection (ESDD) Challenge](https://sites.google.com/view/esdd-challenge). 
@@ -31,7 +33,7 @@ Detailed structure of the dataset is shown in the following figure:
 
 - EnvSDD-Development: you can download from [https://zenodo.org/records/15220951](https://zenodo.org/records/15220951)
 - EnvSDD-Test: you can download from [https://zenodo.org/records/15241138](https://zenodo.org/records/15241138)
-- EnvSDD-Remain: available soon
+- EnvSDD-Remain: you can download from [https://zenodo.org/records/15239720](https://zenodo.org/records/15239720)
 
 - If you download the EnvSDD-Development data, you will get 178765 clips in total, i.e., 35753 (real) + 35753 * 4 (fake).
 - If you download the EnvSDD-Test data, you will get 39768 clips in total, i.e., 4971 (real) + 4971 * 7 (fake).
