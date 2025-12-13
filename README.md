@@ -1,5 +1,9 @@
 # Updates
 
+## Metadata
+
+We released all metadata in the **metadata folder**, please kindly check and download.
+
 ## ESDD Challenge 2026
 
 Based on EnvSDD, we are launching the [Environmental Sound Deepfake Detection (ESDD) Challenge](https://sites.google.com/view/esdd-challenge). 
