@@ -1,4 +1,6 @@
 # Updates
+## Dataset on Hugging Face (20260517)
+We have released the EnvSDD dataset on [hugging face](https://huggingface.co/datasets/AustinXiao/EnvSDD), welcome to download!
 
 ## Metadata
 
